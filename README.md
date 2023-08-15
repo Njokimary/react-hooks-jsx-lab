@@ -22,7 +22,7 @@ Once your app matches the demo image, run `npm test` to check your work.
 
 ## Deliverables
 
-### NavBar
+### NavBar  
 
 The `<NavBar>` component should return the following JSX elements:
 
